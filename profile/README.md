@@ -1,6 +1,6 @@
-## UDSM - Modelling and Data Analytics Unit (MDAU)
+## UDSM - Modelling and Data Analytics Lab (MDAL)
 
-The UDSM Modelling and Data Analytics Unit (MDAU) champions data-first approaches to strengthen decision-making across various sectors in Tanzania. Based at the University of Dar es Salaam, MDAU blends advanced analytics, operational research, and software engineering to transform complex data into actionable insights.
+The UDSM Modelling and Data Analytics Lab (MDAL) champions data-first approaches to strengthen decision-making across various sectors in Tanzania. Based at the University of Dar es Salaam, MDAL blends advanced analytics, operational research, and software engineering to transform complex data into actionable insights.
 
 ### What we do
 
